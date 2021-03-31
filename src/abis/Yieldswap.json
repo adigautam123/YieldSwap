@@ -1,0 +1,5 @@
+{
+  "contractName": "Yieldswap",
+  "abi":[
+  	{"constant":false,"inputs":[{"internalType":"address","name":"_wbtcAddress","type":"address"},{"internalType":"address","name":"_UniPoolout","type":"address"},{"internalType":"address","name":"_UniPoolin","type":"address"},{"internalType":"uint256","name":"_LPamount","type":"uint256"},{"internalType":"uint256","name":"_minTokenrec","type":"uint256"},{"internalType":"uint256","name":"_minPoolToken","type":"uint256"},{"internalType":"address","name":"_allowanceTarget","type":"address"},{"internalType":"address","name":"_swapTarget","type":"address"},{"internalType":"bytes","name":"swapData","type":"bytes"}],"name":"LPswap","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":true,"stateMutability":"payable","type":"function"},{"constant":true,"inputs":[],"name":"z0","outputs":[{"internalType":"contract Sushiswap_ZapOut","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"z1","outputs":[{"internalType":"contract Sushiswap_ZapIn","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"}]
+}
