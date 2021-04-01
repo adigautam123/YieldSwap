@@ -7,5 +7,5 @@ LPs/SLPs.
 The contract will convert LP token into WBTC and WBTC will again deposited into Other LPs/SLPs.
 
 ## 🔧 Project Diagram:
-![Project Diagram/Workflow](https://i.gyazo.com/9f03d7bc067d1013966b0cb901517567.png)
+![Project Diagram/Workflow](https://i.gyazo.com/85b7439c0ed8ff31abf423a6f231a5a5.png)
 
