@@ -6,3 +6,6 @@ The contracts are deployed on Kovan Testnet due to High Gas Fee on Eth Network. 
 LPs/SLPs.
 The contract will convert LP token into WBTC and WBTC will again deposited into Other LPs/SLPs.
 
+## 🔧 Project Diagram:
+![Project Diagram/Workflow](https://i.gyazo.com/9f03d7bc067d1013966b0cb901517567.png)
+
