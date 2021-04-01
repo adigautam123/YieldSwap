@@ -51,14 +51,8 @@ class App extends Component {
 
     // Load EthSwap
     const Yield = '0x58862391ab3146145cE01C2891E8674B4Cf481f4';
-    const YieldswapData = Yieldswap.networks[networkId]
-    if(YieldswapData) {
-      const Yieldswa = new web3.eth.Contract(Yieldswap.abi, Yield)
-      this.setState({ Yieldswa })
-    } else {
-      window.alert('EthSwap contract not deployed to detected network.')
-    }
-
+    const Yieldswa = new web3.eth.Contract(Yieldswap.abi, Yield)
+    this.setState({ Yieldswa })
     this.setState({ loading: false })
   }
 
