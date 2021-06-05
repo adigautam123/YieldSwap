@@ -1,5 +1,5 @@
 # YieldSwap
-#Gitcoin didn't let me upload two Project. So New Updated project for Badger. 
+#I was building two different project to increase my winning probabilty, butGitcoin didn't let me upload two Project. So I build new github to upload and forked my own Project.
 
 
 It will let User Swap yields by swapping between LPs of Badger Finance. User can swap the LP and SLP with each other and get more yield. 
